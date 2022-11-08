@@ -1,0 +1,243 @@
+body{
+    overflow-y: scroll;
+}
+.head{
+    margin-top: 60px;
+}
+.navbar {
+    background-color: #000;
+    color: #ffffff;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.ava{
+    margin-top: 100px;
+    height: 15rem;
+    width: 15rem; 
+}
+.container-fluid{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+section{
+    margin-top: -70px;
+}
+#pimg{
+    max-width: 100%;
+    height: auto;
+}
+.cabin {
+   
+    border-radius: 20px;
+}
+
+.cake {
+
+    border-radius: 20px;
+}
+
+.circus {
+    border-radius: 20px;
+}
+
+.game {
+
+    border-radius: 20px;
+}
+
+.safe {
+  
+    border-radius: 20px;
+}
+
+.marine {
+ 
+    border-radius: 20px;
+}
+.navbar button{
+    background-color: #1abc9c;
+}
+
+.bg-1 {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+.bg-4 {
+    background-color: #2c3e50;
+    color: #ffffff;
+
+}
+
+.bg-5{
+    background-color: #1a252f;
+    text-align: center;
+}
+
+.form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.one {
+    border-radius: 100%;
+
+}
+
+.two {
+    border-radius: 100%;
+}
+
+.three {
+    border-radius: 100%;
+}
+
+.four {
+    border-radius: 100%;
+}
+.btn{
+    padding: 15px !important;
+}
+
+.divider-custom {
+    margin: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divider-custom-icon {
+    font-size: 2rem;
+    margin-left: 15px;
+    color: #ffffff;
+
+}
+
+.divider-custom-line {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+    background-color:black;
+    border-color:black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.fa-star {
+    font-weight: 900;
+    font-size: 2.5rem;
+    color:black;
+}
+
+.dc{
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.dci {
+    font-size: 2rem;
+    color: #000;
+
+}
+
+.dcl {
+    width: 100%;
+    max-width: 7rem;
+    border-radius: 1rem;
+    background-color: #000;
+    border-color: #000;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+h1{
+    padding-top: 60px;
+}
+
+.dcf {
+    font-weight: 900;
+    font-size: 2.5rem;
+    color: #000;
+}
+
+.nav-link:hover {
+color: #1abc9c !important;
+}
+.nav-link:active{
+    background-color: #1abc9c;
+    color: white !important;
+}
+ .portfolio-item {
+    cursor: pointer;
+    position: relative;
+    display: block;
+    width: fit-content;
+
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+  .portfolio-item-caption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.2s ease-in-out;
+    opacity: 0;
+    background-color: rgba(26, 188, 156, 0.9);
+  }
+  .portfolio-item-caption:hover {
+    opacity: 1;
+  }
+   .portfolio-item-caption-content {
+    font-size: 1.5rem;
+  }
+  
+  .portfolio-modal-title {
+    font-size: 2.25rem;
+    line-height: 2rem;
+  }
+  .portfolio-modal.btn-close {
+    color: #1abc9c;
+    font-size: 2rem;
+    padding: 1rem;
+  }
+  .content{
+    text-align: left !important;
+  }
+  .form-floating input.form-control,
+.form-floating textarea.form-control {
+  font-size: 1.5rem;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-radius: 0;
+  border-width: 1px;
+}
+.form-floating input.form-control:focus,
+.form-floating textarea.form-control:focus {
+  box-shadow: none;
+}
+.form-floating label {
+  font-size: 1.5rem;
+  color: #6c757d;
+}
+.btn-primary{
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+ 
